@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+A full-stack developer by day ☀️ and a soon-to-be guitarist at night 🌙
+
+Full-stack developer @peopleshores
+Former Java instructor @brooklyncollege
+
+⚙️ I use daily: .java, .sql, .js, .py
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuwana&layout=donut)](https://github.com/shuwana/github-readme-stats)
 <!--
 **shuwana/shuwana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
