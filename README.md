@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A full-stack developer by day ☀️ and a soon-to-be guitarist at night 🌙
+A full-stack developer by day ☀️ and ... at night 🌙
 
 Full-stack developer @peopleshores
 Former Java instructor @brooklyncollege
